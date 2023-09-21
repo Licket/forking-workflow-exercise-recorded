@@ -1,0 +1,11 @@
+taco spices potentially included in the recipe
+
+Cilantro
+black pepper
+cayenne
+cumin
+garlic
+onion
+oregano
+thyme
+
